@@ -6,8 +6,6 @@ mlflow.db
 *.log
 *.csv
 *.xlsx
-*.pkl
-*.joblib
 .env
 .DS_Store
 
